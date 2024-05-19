@@ -46,8 +46,11 @@
 <br />
 
 <!-- About Section -->
- # About me
- 
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
@@ -56,11 +59,8 @@
 
 </p>
 
-<br/>
-<br/>
-<br/>
+<h3 align="left">🛠 Language and tools</h3>
 
-## Use To Code
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
