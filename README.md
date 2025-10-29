@@ -126,10 +126,14 @@
   <img src="https://profile-counter.glitch.me/GitMasterJatin/count.svg?"  />
 </div>
 
-
-https://www.holopin.io/@gitmasterjatin#badges
-
 ###
 
+<h3 align="center">🏆 My Holopin Badges</h3>
 
+<div align="center">
+  <a href="https://www.holopin.io/@gitmasterjatin" target="_blank">
+    <img src="https://holopin.me/gitmasterjatin" alt="@gitmasterjatin's Holopin badges" />
+  </a>
+</div>
 
+###
